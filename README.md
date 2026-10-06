@@ -56,3 +56,12 @@ Smart-Movie-Recommendation-System/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+## 👨‍💻 Developer
+
+**Ashish Sah**  
+B.Tech CSE (AI & ML)
+
+## 🌐 Live Demo
+
+[Try the App] (https://smart-movie-recommendation-system-by-ashish.streamlit.app/)
